@@ -263,9 +263,8 @@ Te aconsejamos revisar [nuestra rúbrica](https://docs.google.com/spreadsheets/u
 para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Te
 recomendamos también que trates de aplicarte la rúbrica a tí misma y/o a los
 proyectos de tus compañeras a lo largo del Bootcamp para ir viendo tu evolución.
-
-
 ### Habilidades Blandas (Soft Skills)
+
 
 | Habilidad                                       | 
 |-------------------------------------------------|
