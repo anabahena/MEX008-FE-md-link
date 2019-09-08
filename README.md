@@ -31,7 +31,7 @@ EJEMPLO:
 $ search-links ./README.md
 ```
 
-Actualmente el archivo lee únicamente archivos con extensión .md:
+La librería únicamente lee archivos con extensión .md:
 
 <img src="IMG/read.png">
 
