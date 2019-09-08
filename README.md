@@ -31,11 +31,11 @@ EJEMPLO:
 $ search-links ./README.md
 ```
 
-La librería únicamente lee archivos con extensión .md:
+La librería únicamente lee archivos con extensión .md, extrayendo los links que se encuentran en el documento:
 
 <img src="IMG/read.png">
 
-Tambíen identifica los links que se encuentran en el archivo y cuáles de estos funcionan o no:
+Además de ubicar el estatus de los mismos, es decir, cuáles de estos están rotos y cuáles no:
 
 <img src="IMG/Extract1.png">
 
