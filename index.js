@@ -3,7 +3,7 @@ const readFileMd = require('./modules/readMd.js');
 const onlyMd = require('./modules/onlyMd.js');
 const extractLinks = require('./modules/extractLinks.js');
 const getValidation = require('./modules/validate.js');
-const getComand = require('./cli.js')
+// const getComand = require('./cli.js')
 
 
 
@@ -15,11 +15,11 @@ const mdLinks =(pathFile)=>{
       })
       .then(res => {
         console.log(res);
-        getValidation(res);
+        return getValidation(res);
       })
       .then( arr => {
         console.log(arr);
-        // return `Total: ${arr.length}`;
+        return `Total: ${arr.length}`;
       })
 
   } else {

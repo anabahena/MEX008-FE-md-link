@@ -1,12 +1,12 @@
-#!/usr/bin/env node
+// #!/usr/bin/env node
 
-const getComand = () =>{
-const[A,B,...args] = process.argv
-console.log(process.args[2]);
-}
+// const getComand = () =>{
+// const[A,B,...args] = process.argv
+// console.log(process.args[2]);
+// }
 
 
-module.exports = getComand;
+// module.exports = getComand;
 
 
 
